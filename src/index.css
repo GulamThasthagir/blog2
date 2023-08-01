@@ -11,3 +11,51 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.navbar{
+  display: flex;
+  justify-content: space-around;
+}
+.btn{
+  margin-top: 2.5%;
+  /* display: flex; */
+  justify-content: space-evenly;
+}
+.btn1{
+  border: none;
+  background-color: white;
+}
+.btn1:hover{
+  color: rgb(242, 7, 46);
+}
+.btn2:hover{
+  color: rgb(237, 12, 196);
+  background-color: white;
+}
+
+.btn2{
+background-color: rgb(237, 12, 196);
+color:black;
+padding: 10px;
+border: none;
+border-radius: 15%;
+color: white;
+margin-left: 10px;
+}
+.cont1{
+  margin-left: 18%;
+  text-align: left;
+
+}
+.cont2{
+  margin-left: 18%;
+  text-align: left;
+}
+.first,.second{
+  color: rgb(237, 12, 196);
+}
+.paragraph{
+  border: 1px solid black;
+  height: 0px;
+  width:850px;
+  margin-left: 17%;
+}
