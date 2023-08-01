@@ -11,6 +11,7 @@ export const Content = () => {
         <div class="cont2">
         <h2 class="second">Welcome to the New Blog</h2>
         <p class="para2">Written by gulam</p>
+        <h2>gulam</h2>
         </div>
         
     </div>
