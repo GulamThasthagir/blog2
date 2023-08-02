@@ -2,12 +2,14 @@ import logo from './logo.svg';
 import './App.css';
 import Navbar from './Navbar';
 import Content from './Content';
+import Fetching from './Fetching';
 
 function App() {
   return (
     <div className="App">
       <Navbar/>
       <Content/>
+      <Fetching />
     </div>
   );
 }
